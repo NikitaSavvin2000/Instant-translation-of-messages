@@ -1,0 +1,4 @@
+This is app intended for fast learning languages.
+In the future app will be translate messages which you send your
+relatives, friend, colleagues with language which you learn on language
+which learn or understand your interlocutor
